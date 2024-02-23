@@ -1,1 +1,1 @@
-# AzureOpenAI-UseCases
+# Azure OpenAI Use Cases
